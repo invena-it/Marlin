@@ -4217,7 +4217,7 @@
 /* ET4 Black Theme */
 
 #define COLOR_RED2              0xF003
-#define COLOR_ORANGE2           0xFDE0
+#define COLOR_ORANGE2           0x06bf //blue from RGB565
 #define COLOR_LIME2             0xA7E0
 #define COLOR_BLACK2            0x2124
 
