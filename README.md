@@ -1,3 +1,5 @@
+![counter](https://enp0tr91vnxl0ju.m.pipedream.net)
+
 # Marlin for Diggro Alpha 5 3D printers
 
 Since Anet has released an exact copy of their ET4 Pro 3D printer, the Diggro Alpha 5, with the same impractical kind of firmware, I decided to take my chances and try  installing Marlin on this machine. The machine itself is good foundation for future mods, but the firmware is rendering this printer almost useless in my opinion. If you had ever anything to do with setting up Marlin, then the original firnmware will annoy you very much. I promise. Although the printers are very similar, in my case the config for ET4 Pro (which is the exact equivalent of Diggro Alpha 5), didn't work as expected.
